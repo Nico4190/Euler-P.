@@ -1,6 +1,4 @@
 
-
-
 def multiplosde3e5(n):
 
     suma = 0
